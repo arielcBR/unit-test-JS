@@ -1,0 +1,6 @@
+num1,num2,resultadoEsperado
+12,4,3
+7,0,"""Infinity"""
+-15,3,-5
+-24,-4,6
+-300,30,100

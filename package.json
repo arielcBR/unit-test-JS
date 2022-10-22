@@ -1,0 +1,22 @@
+{
+  "name": "unit-test-market-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielcBR/unit-test-market-project.git"
+  },
+  "author": "Ariel Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielcBR/unit-test-market-project/issues"
+  },
+  "homepage": "https://github.com/arielcBR/unit-test-market-project#readme",
+  "dependencies": {
+    "jest": "^29.2.0"
+  }
+}
